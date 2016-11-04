@@ -13,7 +13,5 @@ hello world
 <p> 你好，世界 </p>
 
 <code>
-<div style="color:red">
-  你好，世界
-</div>
+  String hello = "你好，世界";
 </code>
